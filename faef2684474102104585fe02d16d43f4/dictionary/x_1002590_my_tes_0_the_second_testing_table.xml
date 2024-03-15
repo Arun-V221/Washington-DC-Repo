@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2356ba0c974986108c41ffb0f053af22" extends="task" label="The second testing table" max_length="40" name="x_1002590_my_tes_0_the_second_testing_table" type="collection"/>
+</database>
