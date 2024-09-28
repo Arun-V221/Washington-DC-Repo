@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fd213208474102104585fe02d16d43bd" extends="task" label="CAD Testing Table" max_length="40" name="x_1002590_my_tes_0_cad_testing_table" type="collection">
+        <element label="Test Number" max_length="40" name="test_number" type="string"/>
+    </element>
+</database>
